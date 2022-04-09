@@ -11,4 +11,3 @@ You can click the Preview link to take a look at your changes.
 
 
 ![](https://64.media.tumblr.com/d0635fa4e4bf417b33f24bd481c21f88/tumblr_ppcabrYCWy1ue08b9o1_540.gifv)
-![alt text](https://i0.wp.com/analyticsindiamag.com/wp-content/uploads/2019/05/743424_github-wallpaper.jpg?ssl=1)
