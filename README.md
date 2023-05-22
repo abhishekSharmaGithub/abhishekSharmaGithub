@@ -12,8 +12,8 @@ Here are some of the technologies and tools I work with:
 <img src="https://img.shields.io/badge/Sublime%20Text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime Text" />  
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />  
 <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />  
-<img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-
+<!-- <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+ -->
 ## About Me
 
 I am an enthusiastic programmer always seeking new challenges and opportunities to learn and grow. I have a strong foundation in algorithms, data structures, and problem-solving. I am experienced in developing web applications using Python and Django.
