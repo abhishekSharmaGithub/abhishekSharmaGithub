@@ -4,7 +4,7 @@
 
 
 
-I am an enthusiastic programmer always seeking new challenges and opportunities to learn and grow. I have a strong foundation in algorithms, data structures, and problem-solving. I am experienced in developing web applications using Python and Django.
+I am an enthusiastic programmer always seeking new challenges and opportunities to learn and grow. I have a strong foundation in algorithms, data structures, and problem-solving. I am experienced in developing web applications using Javascript and Django.
 
 Feel free to connect with me and explore my work on GitHub. 
 - LinkedIn: [Abhishek Sharma](https://www.linkedin.com/in/abhishek-sharma-439a20144)
