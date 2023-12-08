@@ -14,6 +14,8 @@ Here are some of the technologies and tools I work with:
 <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />  
 ## About Me
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekSharmaGIthub&theme=dark&show_icons=true)
+
 I am an enthusiastic programmer always seeking new challenges and opportunities to learn and grow. I have a strong foundation in algorithms, data structures, and problem-solving. I am experienced in developing web applications using Python and Django.
 
 Feel free to connect with me and explore my work on GitHub. Let's collaborate and create something awesome together!
