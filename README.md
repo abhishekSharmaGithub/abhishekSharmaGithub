@@ -17,10 +17,10 @@ Feel free to connect with me and explore my work on GitHub.
 
 
 Here are some of the technologies and tools I work with:
-
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />  <img src="https://img.shields.io/badge/Sublime%20Text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime Text" />  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekSharmaGIthub&theme=dark&show_icons=true)
+[![An image of @visitorx7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/visitorx7)](https://holopin.io/@visitorx7)
 
 
 <!---
