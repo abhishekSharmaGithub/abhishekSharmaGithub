@@ -1,29 +1,62 @@
-# Hello World!, I'm Abhishek! 👋
+# Hello! I'm Abhishek Sharma 👋
 
 ### About Me
 
+I am a passionate programmer, constantly exploring new challenges and opportunities to grow my skills. With a solid foundation in algorithms, data structures, and problem-solving, I thrive on creating efficient and innovative solutions. My expertise lies in developing web applications using **JavaScript** and **Django**, and I am always eager to expand my tech stack.
 
+🚀 Let's connect and explore exciting ideas together!
 
-I am an enthusiastic programmer always seeking new challenges and opportunities to learn and grow. I have a strong foundation in algorithms, data structures, and problem-solving. I am experienced in developing web applications using Javascript and Django.
+- **LinkedIn**: [Abhishek Sharma](https://www.linkedin.com/in/abhishek-sharma-439a20144)
+- 💬 Feel free to ask me about **Competitive Programming, DSA, JavaScript, and Web Development**
 
-Feel free to connect with me and explore my work on GitHub. 
-- LinkedIn: [Abhishek Sharma](https://www.linkedin.com/in/abhishek-sharma-439a20144)
-- 💬 Ask me about **competitive programming , DSA , Javascript**
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekSharmaGithub" alt="abhisheksharmagithub" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abhishekSharmaGithub&theme=radical&row=1&column=6" alt="GitHub Profile Trophy" />
+  </a>
+</p>
 
-
+---
 
 ## Technologies and Tools
 
+Here are the technologies and tools I work with:
 
-Here are some of the technologies and tools I work with:
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />  <img src="https://img.shields.io/badge/Sublime%20Text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime Text" />  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,babel,bash,bootstrap,c,cpp,css,django,docker,express,figma,firebase,git,github,gitlab,grafana,html,java,js,kali,linux,mongodb,mysql,nextjs,nginx,nodejs,npm,postgres,postman,prisma,prometheus,py,react,redis,selenium,ts,tailwind,ubuntu,vite,vscode" alt="Skill Icons" />
+  </a>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekSharmaGIthub&theme=dark&show_icons=true)
-[![An image of @visitorx7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/visitorx7)](https://holopin.io/@visitorx7)
+---
 
+## Achievements
 
-<!---
-abhishekSharmaGithub/abhishekSharmaGithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Holopin Badges](https://holopin.me/visitorx7)](https://holopin.io/@visitorx7)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekSharmaGithub&show_icons=true&theme=radical" alt="Abhishek's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekSharmaGithub&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekSharmaGithub&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## Let's Collaborate
+
+💡 I am open to collaborations on projects related to **web development, open-source contributions, or innovative problem-solving**. Let's bring ideas to life together!
+
+📫 You can reach out to me via [LinkedIn](https://www.linkedin.com/in/abhishek-sharma-439a20144) or explore my work on [GitHub](https://github.com/abhishekSharmaGithub).
+
+---
+
+✨ "Code is like humor. When you have to explain it, it’s bad." - Cory House
